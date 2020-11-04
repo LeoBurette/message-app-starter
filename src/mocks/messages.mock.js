@@ -3,7 +3,7 @@ export const messagesMock = [
         id: "1",
         sender: {
             name: "Nebory Talk",
-            profileImage: "https://images.pexels.com/photos/2801603/pexels-photo-2801603.jpeg?auto=compress&cs=tinysrgb&h=100&w=100" 
+            profileImage: "https://images.pexels.com/photos/2801603/pexels-photo-2801603.jpeg?auto=compress&cs=tinysrgb&h=100&w=100"
         },
         content: "On it differed repeated wandered required in. On it differed repeated wandered required in. ",
         read: true,
@@ -13,7 +13,7 @@ export const messagesMock = [
         id: "2",
         sender: {
             name: "Johnathan Fritz",
-            profileImage: "https://images.pexels.com/photos/941693/pexels-photo-941693.jpeg?auto=compress&cs=tinysrgb&h=100&w=100" 
+            profileImage: "https://images.pexels.com/photos/941693/pexels-photo-941693.jpeg?auto=compress&cs=tinysrgb&h=100&w=100"
         },
         read: false,
         content: "On it differed repeated wandered required in. On it differed repeated wandered required in.",
@@ -23,7 +23,7 @@ export const messagesMock = [
         id: "3",
         sender: {
             name: "Jennifer Fritz",
-            profileImage: "https://images.pexels.com/photos/6945/sunset-summer-golden-hour-paul-filitchkin.jpg?auto=compress&cs=tinysrgb&h=100&w=100" 
+            profileImage: "https://images.pexels.com/photos/6945/sunset-summer-golden-hour-paul-filitchkin.jpg?auto=compress&cs=tinysrgb&h=100&w=100"
         },
         read: false,
         content: "On it differed repeated wandered required in. On it differed repeated wandered required in.",
@@ -33,10 +33,20 @@ export const messagesMock = [
         id: "5",
         sender: {
             name: "Art Fritz",
-            profileImage: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&h=100&w=100" 
+            profileImage: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&h=100&w=100"
         },
         read: false,
         content: "On it differed repeated wandered required in. On it differed repeated wandered required in.",
         date: "Sun Oct 11 2020 14:09:25 GMT+0200 (Central European Summer Time)",
+    },
+    {
+        id: "6",
+        sender: {
+            name: "Art Fritz Second profil",
+            profileImage: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&h=100&w=100"
+        },
+        read: true,
+        content: "I just test my second profil dont worry.",
+        date: "Sun Oct 11 2020 17:00:00 GMT+0200 (Central European Summer Time)",
     }
 ]
